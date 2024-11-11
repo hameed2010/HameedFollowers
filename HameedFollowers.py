@@ -1,5 +1,3 @@
-#The Marshal Encryptor works in Python versions below 3.9.16. It does not work in Python versions 3.9.16 above.
-#Check your Python Version  print(__import__('sys').version)
 
 
 from marshal import loads
